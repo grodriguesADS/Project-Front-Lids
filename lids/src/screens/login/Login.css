@@ -1,32 +1,30 @@
 .login-logo {
-
     display: flex;
-
     background-color: #ff9900;
     width: 50%;
     height: 100%;
-    margin: 0;
+  }
   
-
-}
-
-.background-logo {
+  .background-logo {
     display: flex;
     margin-top: 25%;
     margin-bottom: 23%;
     height: 500px;
     width: 100%;
     background-color: #ffffff;
-}
-
-.login-logo h1 {
- 
+  }
+  
+  .login-logo h1 {
     text-align: center;
-}
-
-.login-email {
+  }
+  
+  .login-email {
     margin-top: 350px;
     margin-left: 360px;
-}
+  }
 
-
+  .responsive-svg {
+    max-width: 100%;
+    height: auto;
+  }
+  
