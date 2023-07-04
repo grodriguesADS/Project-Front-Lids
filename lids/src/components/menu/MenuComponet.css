@@ -1,0 +1,17 @@
+#tieredmenu {
+    background-color: orange;
+    border-color: orange;
+}
+
+.menu-container{
+    display: flex;
+
+    background-color: orange;
+    width: 7.7%;
+    height: 100%;
+}
+
+.logo-svg {
+    margin-left: auto;
+    margin-right: auto;
+}
